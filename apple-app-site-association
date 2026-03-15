@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["F5887CKF3W.com.moai.mo.ai"],
+        "components": [
+          {
+            "/": "/group-invite"
+          },
+          {
+            "/": "/group-invite/*"
+          }
+        ]
+      }
+    ]
+  }
+}
